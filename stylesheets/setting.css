@@ -1,0 +1,63 @@
+body {
+	background-color: #EEEEEE;
+}
+
+.container-fluid {
+	text-align: center;
+}
+
+.navbar {
+	background-color: #29BDE0;
+	border-bottom: 1px solid #59CCE7;
+}
+
+.left-back {
+	display: block;
+	width: 1.4rem;
+    height: 1.4rem;
+    border-bottom: 3px solid #fff;
+    border-left: 3px solid #fff;
+    transform: rotate(45deg);
+    float: left;
+    margin: 16px;
+}
+
+.title {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	line-height: 50px;
+	letter-spacing: 0.1em;
+}
+
+.tip {
+	width: 24px;
+	height: 24px;
+	float: right;
+    margin: 12px;
+}
+
+.player-setting {
+	margin-top: 70px;
+}
+
+.p-title {
+	font-size: 1.5em;
+	background-color: #fff;
+	width: 4em;
+	height: 10em;
+	writing-mode: vertical-lr;
+	text-align: center;
+	float: left;
+}
+
+.p-title span {
+	display: block;
+	width: 1.5em;
+	margin: auto 2.2rem;
+}
+
+.p-content {
+	background-color: #FBFBFB;
+	width: 20em;
+	height: 20em;
+}

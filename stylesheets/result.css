@@ -1,0 +1,117 @@
+.container-fluid {
+	text-align: center;
+}
+
+.navbar {
+	background-color: #29BDE0;
+	border-bottom: 1px solid #59CCE7;
+}
+
+.home {
+    margin: 10px;
+    float: left;
+}
+
+.title {
+	color: #FFFFFF;
+	font-size: 1.5em;
+	line-height: 50px;
+	letter-spacing: 0.1em;
+}
+
+.tip {
+	float: right;
+    margin: 12px;
+}
+
+.footer {
+	background-color: rgba(41,189,224,0.5);
+	height: 80px;
+}
+
+.content-footer {
+	margin-top: 15px;
+}
+
+.btn {
+	width: 45%;
+	font-size: 2rem;
+	color: #FFFFFF;
+	border-radius: 8px;
+}
+
+.again {
+	background-color: #F66F6F;
+	margin: 6px;
+	border: 1px solid #F66F6F;
+}
+
+.upload {
+	background-color: #FBB435;
+	margin: 6px;
+	border: 1px solid #FBB435;
+}
+
+.result {
+	width: 100%;
+	margin-top: 50px;
+}
+
+.logo {
+	display: block;
+	margin: 1em auto;
+	padding-top: 1em;
+}
+
+.result p {
+	color: #FFC865;
+	text-align: center;
+	font-size: 1.7rem;
+	font-weight: bold;
+	margin-bottom: 0.5em;
+}
+
+.result-count {
+	color: #FFFFFF;
+	font-size: 1.5rem;
+	letter-spacing: 0.1rem;
+}
+
+.info {
+	height: 88vh;
+	overflow: auto;
+}
+
+.content {
+	background-color: #FFFFFF;
+	overflow: auto;
+}
+
+.result-info {
+	border-bottom: 1px solid #999999;
+}
+
+.day {
+	font-size: 1.6rem;
+	margin: 0.5rem auto;
+}
+
+.count-day {
+	letter-spacing: 0.2rem;
+	font-weight: bold;
+}
+
+.end-date {
+	color: #BDBDBD;
+	font-size: 0.8rem;
+	padding-top: 0.5rem;
+}
+
+.result-info p {
+	color: #999999;
+	font-size: 1.1em;
+}
+
+.middle {
+	background-color: #29BDE0;
+}

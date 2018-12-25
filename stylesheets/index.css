@@ -1,0 +1,137 @@
+body {
+	background-color: #EEEEEE;
+}
+
+.navbar-default {
+	background-color: #29BDE0;
+}
+
+.hint {
+	width: 100%;
+	height: 5rem;
+	color: #999999;
+	margin: 0 auto;
+	border: 1px solid #FFFFFF;
+	background-color: #FFFFFF;
+	margin-top: 70px;
+}
+
+.hint-text {
+	display: block;
+	width: 10em;
+	line-height: 5rem;
+	margin: 0 auto;
+	font-size: 2rem;
+}
+
+.right {
+	display: block;
+	width: 1.4rem;
+    height: 1.4rem;
+    border-top: 3px solid #E6E6E6;
+    border-right: 3px solid #E6E6E6;
+    transform: rotate(45deg);
+    float: right;
+    position: relative;
+    bottom: 2.7em;
+    right: 1em;
+}
+
+.content {
+	width: 100%;
+	border: 1px solid #FFFFFF;
+	background-color: #FFFFFF;
+}
+
+.tittle {
+	width: 100%;
+	height: 8vh;
+	color: #FAB33A;
+	border-bottom: 1px solid #FAB33A;
+	margin-bottom: 20px;
+}
+
+.tittle-text {
+	font-size: 2rem;
+	letter-spacing: 0.2rem;
+	line-height: 8vh;
+	display: flex;
+	justify-content: center;
+}
+
+.info {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+.version {
+	width: 89%;
+	height: 16vh;
+	margin: 0 auto;
+	border: 1px solid #68D0E8;
+	background-color: #68D0E8;
+}
+
+.version-text {
+	font-size: 2rem;
+	letter-spacing: 0.2rem;
+	line-height: 16vh;
+	display: flex;
+	justify-content: center;
+	color: #FFFFFF;
+}
+
+.triangle {
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid #FAB339;
+    float: right;
+    position: relative;
+    top: 6vh;
+    right: 0.75em;
+}
+
+.count {
+	display: block;
+	width: 12.5em;
+	height: 2vh;
+	margin: 1em auto;
+	font-size: 1.5rem;
+}
+
+.slide {
+	width: 4em;
+	height: 1.5em;
+	margin: 1em auto;
+	padding-top: 0.5em;
+}
+
+.slide-1 {
+	display: block;
+	width: 9px;
+	height: 9px;
+	border-radius: 5em;
+	background-color: #5EC0CE;
+	float: left;
+	margin: 2px;
+}
+
+.slide-2 {
+	display: block;
+	width: 9px;
+	height: 9px;
+	border-radius: 5em;
+	background-color: #EEEEEE;
+	float: left;
+	margin: 2px;
+}
+
+a {
+	color: #999999;
+	text-decoration: none !important;
+}
+
+.cotent-info {
+	height: 98vh;
+	overflow: auto;
+}
