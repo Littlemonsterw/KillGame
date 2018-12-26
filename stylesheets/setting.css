@@ -43,7 +43,7 @@ body {
 .p-title {
 	font-size: 1.5em;
 	background-color: #fff;
-	width: 4em;
+	width: 15%;
 	height: 10em;
 	writing-mode: vertical-lr;
 	text-align: center;
@@ -52,12 +52,17 @@ body {
 
 .p-title span {
 	display: block;
-	width: 1.5em;
-	margin: auto 2.2rem;
+	margin: auto 5%;
 }
 
 .p-content {
 	background-color: #FBFBFB;
 	width: 20em;
-	height: 20em;
+	height: 15em;
+	float: left;
+	color: grey;
+}
+
+.p-list {
+	letter-spacing: 0.5rem;
 }
